@@ -1,4 +1,4 @@
 {
-  "data": "{\"version\":1,\"issued\":1787196356262,\"keys\":[{\"id\":\"dec645\",\"hash\":\"54adb288a64a63c78a2d2fc071751917cecf6043d976ba250583f331783e812e\",\"exp\":0,\"note\":\"Owner Key\",\"revoked\":false},{\"id\":\"a5dadd\",\"hash\":\"8b0e7e52001f54ce681ccee08e2ac10c102cf18580480fa994151d26a3c1728d\",\"exp\":0,\"note\":\"Erik\",\"revoked\":false},{\"id\":\"2e83c0\",\"hash\":\"276abc91251adc6acdcb2aac89c5defc0ef48f51ce6cdf9f8bbe4b66e05e49ba\",\"exp\":0,\"note\":\"yoyo\",\"revoked\":false}]}",
-  "sig": "d/s1+uXULx/mJAEJ2jhWJRim7b+SwebCK7eHaXFH1Lk1s0wKAo3z9/Pkaa8R0M8lGDCjRy7NPWbUzKevII4FBw=="
+  "data": "{\"version\":1,\"issued\":1787196452893,\"keys\":[{\"id\":\"dec645\",\"hash\":\"54adb288a64a63c78a2d2fc071751917cecf6043d976ba250583f331783e812e\",\"exp\":0,\"note\":\"Owner Key\",\"revoked\":false},{\"id\":\"a5dadd\",\"hash\":\"8b0e7e52001f54ce681ccee08e2ac10c102cf18580480fa994151d26a3c1728d\",\"exp\":0,\"note\":\"Erik\",\"revoked\":false},{\"id\":\"2e83c0\",\"hash\":\"276abc91251adc6acdcb2aac89c5defc0ef48f51ce6cdf9f8bbe4b66e05e49ba\",\"exp\":0,\"note\":\"yoyo\",\"revoked\":true}]}",
+  "sig": "yeDhRjhpVhVeAc7tGaWJS1Ltrf7pbIfGCvXaVFl47QfWnP1KV1owyzI5t1/GIMEIp23bS4jDJGW9tviFtUCXBw=="
 }
