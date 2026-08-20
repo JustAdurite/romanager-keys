@@ -1,4 +1,4 @@
 {
-  "data": "{\"version\":1,\"issued\":1787190477620,\"keys\":[{\"id\":\"dec645\",\"hash\":\"54adb288a64a63c78a2d2fc071751917cecf6043d976ba250583f331783e812e\",\"exp\":0,\"note\":\"Owner Key\",\"revoked\":false}]}",
-  "sig": "rs+L7hLiYIq+WVQqd6mfPWcvJiCQBy8PlevSQaJFbkLHPXZs55lUV87yuLswhSKWVyFUgeR0cNUA3QSuzCgrAA=="
+  "data": "{\"version\":1,\"issued\":1787190485760,\"keys\":[{\"id\":\"dec645\",\"hash\":\"54adb288a64a63c78a2d2fc071751917cecf6043d976ba250583f331783e812e\",\"exp\":0,\"note\":\"Owner Key\",\"revoked\":false}]}",
+  "sig": "JXwzJDGycTTdCCzZNkkG+QAufVCLCCEGn6GWKGWv6P5lwS3crVpMlmFkRHvoOy2iQjEjcu03A2NSaPE2lp5cCQ=="
 }
