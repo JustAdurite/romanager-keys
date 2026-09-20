@@ -1,4 +1,4 @@
 {
-  "data": "{\"version\":1,\"issued\":1789948143070,\"keys\":[{\"id\":\"d87217\",\"hash\":\"a03b38eeffa2660c2b7dc3c2a7d294c5e7be5c372068b335d85963024f1d9b94\",\"exp\":0,\"note\":\"Owner - reissued after 2026-09-20 wipe\",\"revoked\":false},{\"id\":\"2f9c69\",\"hash\":\"8549536109aa049e3bcf207d87efe2d94203415756938962688dce73214d9006\",\"exp\":0,\"note\":\"snipermonkie\",\"revoked\":false},{\"id\":\"627753\",\"hash\":\"f3b75beb69c9d70cb11a7e1f20e65e0b76157b2209439df3b8bea1d260c6c6c4\",\"exp\":0,\"note\":\"yoyo\",\"revoked\":false}]}",
-  "sig": "wkDXWtj9fCtICtz+YZZ/YKJJWCur7AjiXU4yuW4uYNFdUsqIe8KLJgiD858c2owo8emcyqz43DVEaDfxamnxAA=="
+  "data": "{\"version\":1,\"issued\":1789948145002,\"keys\":[{\"id\":\"d87217\",\"hash\":\"a03b38eeffa2660c2b7dc3c2a7d294c5e7be5c372068b335d85963024f1d9b94\",\"exp\":0,\"note\":\"Owner - reissued after 2026-09-20 wipe\",\"revoked\":false},{\"id\":\"2f9c69\",\"hash\":\"8549536109aa049e3bcf207d87efe2d94203415756938962688dce73214d9006\",\"exp\":0,\"note\":\"snipermonkie\",\"revoked\":false},{\"id\":\"627753\",\"hash\":\"f3b75beb69c9d70cb11a7e1f20e65e0b76157b2209439df3b8bea1d260c6c6c4\",\"exp\":0,\"note\":\"yoyo\",\"revoked\":false}]}",
+  "sig": "fdTqYXbk+WNxiASyr4YeISevDrv+5JmmVXe/maG25tJdKfLga6A2UBzFFlqzhJ65gr049QbSgSBELZLcMCqTCg=="
 }
